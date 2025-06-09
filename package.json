@@ -55,10 +55,9 @@
     "tailwindcss-animate": "^1.0.7",
     "ts-jest": "^29.3.4",
     "typescript": "^5"
-  },
-  "lint-staged": {
+  },  "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
-      "eslint --fix",
+      "eslint --fix --ignore-path .eslintignore",
       "prettier --write"
     ],
     "*.{json,css,md}": [

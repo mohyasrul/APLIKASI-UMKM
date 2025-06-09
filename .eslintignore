@@ -1,0 +1,21 @@
+# Generated files
+public/sw.js
+public/workbox-*.js
+out/
+.next/
+
+# Config files with require()
+jest.setup.js
+next.config.ts
+tailwind.config.js
+
+# Node modules and build artifacts
+node_modules/
+dist/
+build/
+*.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

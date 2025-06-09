@@ -88,7 +88,7 @@
 
 ### Development Server Status
 
-- Running on: http://localhost:3000
+- Running on: http://localhost:3001
 - Build Status: ✅ Successful
 - Test Status: ✅ All Passing
 - Lint Status: ✅ Clean
